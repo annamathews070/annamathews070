@@ -1,16 +1,27 @@
-## Hi there 👋
+# Anna Mathews
 
-<!--
-**annamathews070/annamathews070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on Generative AI, Robotics, and Intelligent Automation.
 
-Here are some ideas to get you started:
+## Core Expertise
+- Generative AI & LLM Applications
+- Autonomous Systems & Robotics
+- AI-Powered Automation
+- Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+
+### Ready-to-Hire
+AI-powered mock interview and resume evaluation platform using LangChain, Whisper, FAISS, HuggingFace embeddings, and Groq LLMs.
+
+### AURA – Autonomous Utility Robotic Assistant
+Autonomous robotic assistant featuring intelligent navigation, obstacle avoidance, and RSSI-based user following. Published in IEEE INDICON 2025.
+
+### MITSWAY AR
+AI-powered extended reality campus navigation system with intelligent path planning and emergency routing.
+
+## Tech
+Python • C++ • Django • Flask • Git • Arduino • AI/ML
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/anna-mathews070/  
+Email: annamathews070@gmail.com
